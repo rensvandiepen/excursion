@@ -1,10 +1,28 @@
 html{
   font-family: verdana;
   background-color: black;
+  text-align: center;
 }
 
 h1{
   font-size: 50px;
   color: white;
   text-align: center;
+}
+
+.download{
+  text-decoration: underline;
+  color:aquamarine;
+  font-size: 16px;
+}
+
+.description{
+  text-decoration: none;
+  color:gray;
+}
+
+.footer{
+  text-align: right;
+  color: gray;
+  font-size: 16px;
 }
